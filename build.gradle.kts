@@ -22,6 +22,7 @@ repositories {
     maven("https://repo.extendedclip.com/content/repositories/placeholderapi/")
     // mm
     maven("https://mvn.lumine.io/repository/maven-public/")
+    maven("https://maven.mcylyr.cn/")
     mavenCentral()
     mavenLocal()
 }
