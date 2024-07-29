@@ -42,7 +42,7 @@ dependencies {
     // sf
     compileOnly("com.github.Slimefun:Slimefun4:RC-30")
     // networks
-    compileOnly("io.github.sefiraat:networks:MODIFIED_1.2.0")
+    compileOnly("io.github.sefiraat:networks:DEV-50")
     // mi
     compileOnly("net.Indyuce:MMOItems:6.7.3")
 }
