@@ -40,7 +40,7 @@ dependencies {
     implementation(eplugin("hook-slimefun"))
     implementation(eplugin("hook-mmoitems"))
     // sf
-    compileOnly("com.github.slimefun:Slimefun:a3ef74c-Beta")
+    compileOnly("com.github.slimefun:Slimefun:RC-30")
     // networks
     compileOnly("io.github.sefiraat:networks:MODIFIED_1.2.0")
     // mi
