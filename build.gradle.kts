@@ -45,6 +45,8 @@ dependencies {
     compileOnly("io.github.sefiraat:networks:DEV-50")
     // mi
     compileOnly("net.Indyuce:MMOItems:6.7.3")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.2.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.2")
 }
 
 tasks {
