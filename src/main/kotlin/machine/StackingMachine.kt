@@ -7,7 +7,7 @@ import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem
 import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack
 import io.github.thebusybiscuit.slimefun4.core.handlers.BlockBreakHandler
 import io.github.thebusybiscuit.slimefun4.core.handlers.BlockPlaceHandler
-import io.github.thebusybiscuit.slimefun4.core.networks.energy.EnergyNet
+import io.github.thebusybiscuit.slimefun4.src.main.java.io/github/thebusybiscuit/slimefun4.core.networks/energy/EnergyNet
 import io.github.thebusybiscuit.slimefun4.implementation.Slimefun
 import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems
 import io.github.thebusybiscuit.slimefun4.utils.ChestMenuUtils
